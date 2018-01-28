@@ -437,7 +437,7 @@ def backc():
     #elbow.destroy()
     bill.destroy()
     bill = Label(text = 'So your back is the issue, eh?', font=("fixedsys", 14), anchor=CENTER)
-    Info = Label(root, text = "Back problems are tough to ignore and can pose a serious threat to your health.\n The discs in your spine are especially notiecable when something goes wrong.\n A slipped or herniated disc is a painful experience, adn you will want to fix it right away if possible.\n Suffering a twisted back is also painful, and it is reccomended that you\n visit a doctor to get the help you need.\n\n The websites below have info on various back issues, should you choose to browse.", font=("fixedsys", 14), anchor=CENTER)
+    Info = Label(root, text = "Back problems are tough to ignore and can pose a serious threat to your health.\n The discs in your spine are especially notiecable when something goes wrong.\n A slipped or herniated disc is a painful experience, and you will want to fix it right away if possible.\n Suffering a twisted back is also painful, and it is reccomended that you\n visit a doctor to get the help you need.\n\n The websites below have info on various back issues, should you choose to browse.", font=("fixedsys", 14), anchor=CENTER)
     
         #mayoi = PhotoImage(file="Minnehack\\mayo.gif")
     mayo = Button(root, text='Mayo Clinic')
